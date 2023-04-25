@@ -119,10 +119,18 @@ hr {
 
 /* styles for mobile protrait screen and tablet landscape screen */
 @media only screen and (max-width: 769px) {
-  
-	body {
+
+  body {
     font-size: 90%;
-	}
+  }
+  
+	.main-nav {
+    font-size: 80%;
+  }
+
+  footer {
+    font-size: 70%;
+  }
 
   .feature-div {
     margin-top: 1em;
