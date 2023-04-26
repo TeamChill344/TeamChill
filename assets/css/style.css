@@ -190,11 +190,14 @@ span {
   align-items: center;
 }
 
-.skip-to,
-.skip-to a:visited,
-.skip-to a {
+.skip-to {
   margin: 0.2em 0em 0.2em 0em;
   text-align: center;
+}
+
+.skip-to p,
+.skip-to a:visited,
+.skip-to a {
   font-size: 80%;
   text-decoration: none;
   color: #003985;
