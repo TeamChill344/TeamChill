@@ -113,7 +113,7 @@ footer {
 
 /* HERO (LANDING PAGE) */
 #hero {
-  background: url(./images/landing/windows12.jpeg);
+  background: url(../images/landing/windows12.jpeg);
   height: 100vh;
   background-position: center;
   background-size: cover;
